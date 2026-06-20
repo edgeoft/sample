@@ -391,7 +391,7 @@ export function PastWorks() {
           </h2>
           <div className="h-1 w-20 bg-brand-amber mx-auto" />
           <p className="mt-6 text-brand-slate max-w-2xl mx-auto text-pretty leading-relaxed">
-            Browse job photos or watch short field clips — perfect for Reels and TikTok content.
+          Proof of the work we do, every day.
           </p>
         </div>
 
